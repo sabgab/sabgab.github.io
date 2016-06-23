@@ -1,0 +1,22 @@
+body {
+  font-family: Geneva;
+  background-color: #E8A870;
+  color: white;
+}
+
+
+
+h1 {
+  font-size: 40px;
+  color: teal;
+}
+
+li{
+  font-style: italic;
+}
+h3{
+  text-decoration: underline;
+}
+a{
+  color: white;
+}
